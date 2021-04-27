@@ -1,0 +1,26 @@
+body {
+  font-family: "Open Sans", helvetica;
+  margin: 3vw;
+}
+h1 {
+  color: Dodgerblue;
+}
+h2 {
+  color: black;
+}
+a,
+a:visited {
+  color: Dodgerblue;
+}
+ul {
+  list-style: none;
+}
+img {
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
+header,
+p {
+  font-family: "Cookie";
+}
